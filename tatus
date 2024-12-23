@@ -1,0 +1,261 @@
+[33mcommit 57eae8399f3af6310332482eaf4c671019a55f76[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32missue-M1-build[m[33m, [m[1;31morigin/issue-M1-build[m[33m, [m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m
+Merge: a245f21e c352e625
+Author: AMAN MOGAL <81488924+amanmogal@users.noreply.github.com>
+Date:   Wed Jan 15 02:22:01 2025 +0530
+
+    Merge pull request #1 from amanmogal/update-dependencies-issue-3300
+    
+    Updated #issue 3300
+
+[33mcommit c352e6252c88f886d7ecfd44e06134f96cebdd6d[m[33m ([m[1;31morigin/update-dependencies-issue-3300[m[33m, [m[1;32mupdate-dependencies-issue-3300[m[33m)[m
+Author: AMAN MOGAL <81488924+amanmogal@users.noreply.github.com>
+Date:   Wed Jan 15 01:38:27 2025 +0530
+
+    Updated #issue 3300
+
+[33mcommit a245f21e507b4d473edabf54fb44e9644e0ab2e2[m
+Merge: 948a8cdd 13f840c7
+Author: AMAN MOGAL <81488924+amanmogal@users.noreply.github.com>
+Date:   Wed Jan 15 02:09:06 2025 +0530
+
+    Merge branch 'develop' of https://github.com/amanmogal/newman into develop
+
+[33mcommit 948a8cdda7d8678a025fe63e4f985eb745dd9483[m
+Author: AMAN MOGAL <81488924+amanmogal@users.noreply.github.com>
+Date:   Wed Jan 15 02:08:27 2025 +0530
+
+    updates
+
+[33mcommit 13f840c7d1a8648a9609c6c491e3effa0e149e2c[m
+Author: AMAN MOGAL <81488924+amanmogal@users.noreply.github.com>
+Date:   Tue Dec 24 01:03:53 2024 +0530
+
+    issue M1 build of the docker image for newman #3154 solved
+
+[33mcommit 74a45548df1bc6632f338e1b5e8239a25f314c5d[m[33m ([m[1;31mupstream/develop[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Merge: 776d3701 dd64129c
+Author: Udit Vasu <udit@pm.me>
+Date:   Tue Aug 20 15:57:58 2024 +0530
+
+    Merge branch 'release/6.2.1' into develop
+
+[33mcommit dd64129cdccbcae65adb6290a29cfe04193ad529[m
+Author: Udit Vasu <udit@pm.me>
+Date:   Tue Aug 20 15:57:57 2024 +0530
+
+    Release v6.2.1
+
+[33mcommit 776d3701da430aad11ea6b93f0255b7e442025ff[m
+Author: Udit Vasu <udit@pm.me>
+Date:   Tue Aug 20 15:52:25 2024 +0530
+
+    Fix timeout tests
+
+[33mcommit c2991f787697516ae609d12cebc12f9e35ceddcb[m
+Author: Udit Vasu <udit@pm.me>
+Date:   Tue Aug 20 15:44:40 2024 +0530
+
+    Reverted postman-runtime bump
+
+[33mcommit f0e918c204c1cedda3e376c8c27a6da4e140da88[m
+Merge: b37c0b07 61824697
+Author: Udit Vasu <udit@pm.me>
+Date:   Fri Aug 16 20:10:06 2024 +0530
+
+    Merge branch 'release/6.2.0' into develop
+
+[33mcommit 61824697dbbed994c5405093634a9adcdd027692[m
+Author: Udit Vasu <udit@pm.me>
+Date:   Fri Aug 16 20:10:05 2024 +0530
+
+    Release v6.2.0
+
+[33mcommit b37c0b07166237611f8f9f6b5b02ee35a583a71a[m
+Author: Udit Vasu <udit@pm.me>
+Date:   Fri Aug 16 19:58:19 2024 +0530
+
+    Fix JUnit reporter classname
+
+[33mcommit 901d1ec58b8fd82fab5eb2d83cc76250f4b31568[m
+Author: Udit Vasu <udit@pm.me>
+Date:   Fri Aug 16 18:32:36 2024 +0530
+
+    Update dependencies
+
+[33mcommit 986497e0e21e2b176041305e0afaf1afca027017[m
+Author: Alvaro López <rion18@hotmail.com>
+Date:   Fri Aug 16 07:59:07 2024 -0500
+
+    Changed xmlbuilder-js attributes for attribs on JUnit reporter (#3231)
+
+[33mcommit 42d211df7ceb8987f45b4386d915f8874b0a2d12[m
+Merge: f7c9e93d 79a0db64
+Author: Udit Vasu <udit@pm.me>
+Date:   Tue Aug 6 12:48:00 2024 +0530
+
+    Merge pull request #3243 from postmanlabs/dependabot/npm_and_yarn/braces-3.0.3
+    
+    Chore(deps-dev): bump braces from 3.0.2 to 3.0.3
+
+[33mcommit f7c9e93d266acee96f33aa291535d6c944e71284[m
+Author: Parth Verma <75295512+parthverma1@users.noreply.github.com>
+Date:   Tue Aug 6 00:17:31 2024 -0700
+
+    Added support for HTTP/2 (#3263)
+
+[33mcommit aaaaf9cbbb8c69c18a616ef1c12b07dfb388d5af[m
+Merge: c6431b90 fd4e6be1
+Author: Udit Vasu <udit@pm.me>
+Date:   Thu Aug 1 22:17:21 2024 +0530
+
+    Merge pull request #3264 from postmanlabs/feature/fix-timeout-tests
+    
+    Fixed script and global timeout tests
+
+[33mcommit fd4e6be19299587812815d8ab7c034d0329d2090[m
+Author: Appurva Murawat <appurva21@proton.me>
+Date:   Thu Aug 1 22:09:39 2024 +0530
+
+    test: fix timeout test
+
+[33mcommit c6431b90e5dc440fa0fed1e8dbd8f8162391ebb2[m
+Author: Udit Vasu <udit@pm.me>
+Date:   Thu Aug 1 19:57:01 2024 +0530
+
+    Dispose the sandbox host
+
+[33mcommit a5044af0b53fcc3d95f8729494a91618e2a171df[m
+Author: Udit Vasu <udit@pm.me>
+Date:   Thu Aug 1 19:41:18 2024 +0530
+
+    Update dependencies
+
+[33mcommit 0ca9f1337a099c452158728a583a8037e0629319[m
+Merge: 4b4823c0 2329fa17
+Author: Udit Vasu <udit@pm.me>
+Date:   Thu Aug 1 12:15:15 2024 +0530
+
+    Merge pull request #3258 from postmanlabs/feature/PAPI-3052-APITEST-981-apikey-as-header
+    
+    Converted the deprecated `apikey` parameter in Postman API urls to `x-api-key` header
+
+[33mcommit 2329fa17e47b5180ee9d304e1a1de62ff38998af[m
+Author: Udit Vasu <udit@pm.me>
+Date:   Wed Jul 31 15:33:54 2024 +0530
+
+    Handle postman api hosts
+
+[33mcommit e4d493aeecbf3f6ae214371f2fccfa6087e28a02[m
+Author: Andrea De Pirro <andrea.depirro@postman.com>
+Date:   Wed Jul 31 09:46:34 2024 +0200
+
+    feat: convert the deprecated apikey parameter in Postman API urls to x-api-key header
+
+[33mcommit 4b4823c0b4336d2c9360d81a266f8a7882d07b24[m
+Merge: b4395ba4 92f04ed3
+Author: Udit Vasu <udit@pm.me>
+Date:   Wed Jul 31 12:59:43 2024 +0530
+
+    Merge pull request #3261 from postmanlabs/chore/add-codecov-token
+    
+    Add token for codecov
+
+[33mcommit 92f04ed384a4208889efd10611fcd342e8d470ff[m
+Author: Udit Vasu <udit@pm.me>
+Date:   Wed Jul 31 12:56:14 2024 +0530
+
+    Update codecov.yml
+
+[33mcommit e54cd4698477ef95a1f7f9593973cfc50c7c8ceb[m
+Author: Harsha Dixit <harsha.dixit@postman.com@Harshas-MacBook-Pro-2.local>
+Date:   Wed Jul 31 10:37:52 2024 +0530
+
+    Add token for codecov
+
+[33mcommit 79a0db64b0a85805dd3cc1a6ebe8cbbc9debcede[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Sun Jun 16 09:54:18 2024 +0000
+
+    Chore(deps-dev): bump braces from 3.0.2 to 3.0.3
+    
+    Bumps [braces](https://github.com/micromatch/braces) from 3.0.2 to 3.0.3.
+    - [Changelog](https://github.com/micromatch/braces/blob/master/CHANGELOG.md)
+    - [Commits](https://github.com/micromatch/braces/compare/3.0.2...3.0.3)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: braces
+      dependency-type: indirect
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit b4395ba43b83c0a11174e0a8134bf33381a11837[m
+Merge: 546b9484 767aa8a0
+Author: Udit Vasu <udit@pm.me>
+Date:   Mon Jun 10 07:47:22 2024 +0530
+
+    Merge branch 'release/6.1.3' into develop
+
+[33mcommit 767aa8a09d816c97968d3eb5f159ffa982d4c241[m
+Author: Udit Vasu <udit@pm.me>
+Date:   Mon Jun 10 07:47:21 2024 +0530
+
+    Release v6.1.3
+
+[33mcommit 546b94841d0620d1abd7e49d26c6b2a07ca12956[m
+Author: Udit Vasu <udit@pm.me>
+Date:   Mon Jun 10 07:41:06 2024 +0530
+
+    Update dependencies
+
+[33mcommit 7f8dc93db12b16607437763a45d68a7bb88be526[m
+Merge: 4dec1dee 7b77e24f
+Author: Udit Vasu <udit@pm.me>
+Date:   Thu Mar 14 21:35:49 2024 +0530
+
+    Merge branch 'release/6.1.2' into develop
+
+[33mcommit 7b77e24fc9899e4ac0a7d44de7571688a092cc45[m
+Author: Udit Vasu <udit@pm.me>
+Date:   Thu Mar 14 21:35:48 2024 +0530
+
+    Release v6.1.2
+
+[33mcommit 4dec1dee66285d26b69d28fc87a6bbf8051e4798[m
+Merge: 4a427fd8 2d95c412
+Author: Udit Vasu <udit@pm.me>
+Date:   Thu Mar 14 21:29:42 2024 +0530
+
+    Merge pull request #3190 from baev/patch-1
+    
+    Update Allure report site
+
+[33mcommit 4a427fd8a8040a11134abd04b0cf7f5abad3ef11[m
+Author: Udit Vasu <udit@pm.me>
+Date:   Thu Mar 14 21:28:14 2024 +0530
+
+    Update dependencies
+
+[33mcommit cd81df4f75b4bd348e98f33ccf34afc5c7cbfc50[m
+Merge: 0bcba862 bb772e52
+Author: Udit Vasu <udit@pm.me>
+Date:   Thu Mar 14 21:13:40 2024 +0530
+
+    Merge pull request #3212 from yardenshoham/issues/3169
+    
+    Fix `--color off` not being respected in summary table
+
+[33mcommit bb772e5275562c80014321c59b5549aea1f0a5f1[m
+Author: Yarden Shoham <git@yardenshoham.com>
+Date:   Thu Mar 14 15:18:12 2024 +0000
+
+    Update colored output test regex
+    
+    Signed-off-by: Yarden Shoham <git@yardenshoham.com>
+
+[33mcommit 36a209d09be38711936f6cf7198b3d7af05b5772[m
+Author: Yarden Shoham <git@yardenshoham.com>
+Date:   Thu Mar 14 13:57:48 2024 +0000
+
+    Fix `--color off` not being respected in summa

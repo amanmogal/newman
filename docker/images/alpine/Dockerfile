@@ -1,5 +1,5 @@
-# Use Node 16 Alpine base image
-FROM node:16-alpine
+# Use Node 18 Alpine base image
+FROM node:18-alpine
 LABEL maintainer="Postman Labs <help@postman.com>"
 
 # Define build argument for Newman version
